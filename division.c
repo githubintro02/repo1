@@ -1,4 +1,4 @@
-/*comment*/
+/*comment 2*/
 int division(int a,int b, int *c){
 	if(b==0){
 		return 0
